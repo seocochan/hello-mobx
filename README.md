@@ -1,0 +1,1 @@
+Proof of MVVM concept with Next.js + MobX
